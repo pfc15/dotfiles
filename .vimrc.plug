@@ -1,0 +1,16 @@
+call plug#begin('~/.vim/plugged')
+
+" fugitive vim Github Wrapper
+Plug 'tpope/vim-fugitive'
+Plug 'ervandew/supertab'
+Plug 'honza/vim-snippets'
+Plug 'dense-analysis/ale'
+Plug 'tpope/vim-fugitive'
+Plug 'sheerun/vim-polyglot'
+Plug 'olavhaasie/goal-apl-vim'
+call plug#end()
+
+
+
+
+
